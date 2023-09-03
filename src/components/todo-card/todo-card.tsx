@@ -5,8 +5,8 @@ import './todo-card.styles.css';
 const TodoCard: FC<ITodoCard> = ({todo}) => {
   return (
     <div className="todoCard">
-      <p className="todoCardLabel">Content: </p>
-      <p className="todoCardTODOText">{todo.text}</p>
+      <b className="todoCardLabel">Content: </b>
+      <b className="todoCardTODOText">{todo.text}</b>
     </div>
   );
 }

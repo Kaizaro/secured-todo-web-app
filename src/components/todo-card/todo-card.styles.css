@@ -13,5 +13,10 @@
   color: #96959E;
 }
 .todoCardTODOText {
-  color: white;
+  margin-left: 12px;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  max-lines: 3;
+  color: black;
 }
