@@ -1,0 +1,10 @@
+.todoListContainer {
+  background: #FAFAFE;
+}
+.todoListTitle {
+  font-size: 20px;
+  line-height: 25px;
+  font-weight: 500;
+  color: black;
+  text-align: center;
+}
